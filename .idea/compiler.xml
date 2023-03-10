@@ -9,5 +9,8 @@
         <module name="PocketsCycles" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="НАЗВАНИЕ-ВАШЕГО-ПРОЕКТА-БЕЗ-ПРОБЕЛОВ" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
